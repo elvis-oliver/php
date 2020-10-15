@@ -2,10 +2,9 @@
 <html>
 	<head>
 		<meta charset="utf8"/>
-		<title> titulo </title>
+		<title> variaveis </title>
 	</head>
 	<body>
-		<h1>escreva aqui</h1>
 			<?php
 			$nome = "Elvis";
 			$idade = 26;
