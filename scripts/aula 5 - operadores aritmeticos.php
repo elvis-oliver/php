@@ -17,7 +17,7 @@
 			echo "<br/>---------------------------------------------------------";
 			echo "<br/>O valor absoluto de $n1 é: ".abs($n1);
 			echo "<br/>O valor de $n1<sup>$n2</sup> é: ".pow($n1, $n2);
-			echo "<br/>O valor de $n1 arredondado é: ".round($n1);
+			echo "<br/>O valor de $n1 arredondado é: ".round($n1); //floor e ceal
 			echo "<br/>A parte inteira de $n1 é: ".intval($n1);
 			echo "<br/>O valor $n1 em moeda é: ".number_format($n1, 2, ",", ".");
 			
